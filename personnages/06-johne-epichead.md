@@ -1,9 +1,6 @@
-# Johne Epichead ⚠️ (Johne ou John ?)
+# Johne Epichead
 
 > *Product builder frugal — TechStoïk.*
-
-## ⚠️ Incohérence à trancher
-- « Johne Epichead » à la présentation, « John » dans le retour à Paris
 
 ## Identité
 - **Profil** : trentenaire américain, t-shirt noir, jeans — la Silicon Valley décontractée
@@ -20,3 +17,4 @@
 ## ⚠️ Questions ouvertes
 - « Epichead » = pseudonyme ? (sonne comme un nom d'influenceur)
 - Sait-il ce que le modèle « grand public » cache réellement (le code dangereux verrouillé) ?
+- Rôle futur : premier à découvrir le double langage de l'open source ?
