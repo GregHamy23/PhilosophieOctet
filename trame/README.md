@@ -1,18 +1,22 @@
-# Trame — suite du brouillon
+# Trame macro — suite du brouillon
 
-> Établie d'après les décisions auteur (2026-10-03) : 4 parties, fiabilité croissante, modèle Herbert, France régalienne + entreprises du reste, président-conseil dans l'ombre, mort ambiguë d'Aurélien, guerre des IA + coupure mondiale, messages cachés pour Charles.
+> Version macro (2026-10-03) conforme à la chronologie de l'auteur. César n'est **pas** au sommet à la fin de l'Ascendance.
 
 ## Index
-| Fichier | Contenu |
+| Fichier | Période |
 |---|---|
-| [00-overview.md](00-overview.md) | Vue d'ensemble, honnêteté du narrateur par partie |
-| [01-le-sommet.md](01-le-sommet.md) | Partie 2 : consortium, France duale, président, métrique repensée |
-| [02-la-chute.md](02-la-chute.md) | Partie 3 : parricide ambigu, fuite du Core, guerre des IA, coupure |
-| [03-l-absolution.md](03-l-absolution.md) | Partie 4 : catharsis, messages pour Charles, boucle finale |
+| [00-overview.md](00-overview.md) | Chronologie complète 2026-2070 |
+| [01-corporatisme.md](01-corporatisme.md) | 2026-2032 : corporatisme + président trouble |
+| [02-guerre-industrielle.md](02-guerre-industrielle.md) | 2032-2037 : guerre industrielle, 2037 élection/destitution |
+| [03-traversee-desert.md](03-traversee-desert.md) | 2038-2060 : ombre, sommet glacé, doutes |
+| [04-fin-progres-age-dor.md](04-fin-progres-age-dor.md) | 2060-2070 : fin du progrès, âge d'or |
 
-## Points à trancher
-1. **La métrique du Sommet** (ex-BNB) : IPR officiel ? « Floraison » d'Harmonia ? Les deux ?
-2. **La fuite du Core** : par qui ? (un employé ? Arsène ? Johne découvre le double langage et fuit ?)
-3. **Le président** : construire sa fiche personnage (nom, parcours, faille)
-4. **La rencontre de l'Absolution** : qui vient voir César à la fin ?
-5. **La longueur du livre** (détermine le nombre de chapitres de chaque partie)
+## Personnages à créer
+- **[Le président 2027](../personnages/10-president-2027.md)** (trouble, pro-européen social-libéral, double jeu) — fiche créée
+- Le président anti-tech de 2032 (extrême gauche + extrême droite)
+- Les « personnes grises » 2038-2045 (Machiavel, Nietzsche…)
+
+## À détailler plus tard (l'auteur)
+- Le programme 2045-2060
+- Les tensions/guerres 2060-2065
+- Le découpage exact des 4 parties sur la chronologie
