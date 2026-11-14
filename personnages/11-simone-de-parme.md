@@ -1,6 +1,6 @@
-# Simone Quesnay
+# Simone de Parme
 
-> *Commissaire européenne française, régulatrice de la tech — future candidate providentielle.* (Nom proposé, à valider par l'auteur.)
+> *Commissaire européenne française, régulatrice de la tech — future candidate providentielle.*
 
 ## Identité
 - **Âge** : 50 ans (en 2026)
@@ -18,7 +18,7 @@
 ## Fonction narrative
 - **L'anti-César sur la notion d'entreprendre** : elle est « la politique du Cerfa », incarnation politique de la satire bureaucratique du ch.6.b — la blague devient un personnage, le personnage devient un destin.
 - **La seule que César ne peut pas séduire** : pas de conviction, pas de désir lisible — le charme de César échoue sur le vide, et il le prendra pour de la profondeur.
-- **Son point raisonnable contre César** : une IA est une *personne artificielle* — elle n'a pas de père, elle a un représentant autorisé. César croit être père ; elle administera. Toute la guerre des autorisations (2027-2037) est dans ce malentendu.
+- **Son point raisonnable contre César** : une IA est une *personne artificielle* — elle n'a pas de père, elle a un représentant autorisé. César croit être père ; elle administrera. Toute la guerre des autorisations (2027-2037) est dans ce malentendu.
 - **Miroir du double jeu de César** : les deux font de la politique par d'autres moyens — lui par l'entreprise, elle par le formulaire.
 
 ## Arc (horizon 2027-2037)
@@ -40,7 +40,7 @@
 
 ## ⚠️ Questions ouvertes
 1. **Fusion avec la fiche 10 ?** Le « président 2027 » (pro-européen, social-libéral, double jeu, finance le corporatisme tout en l'entravant) semble être elle. Si oui : fusionner les fiches et nommer le président 2027 résout le point de la trame.
-2. **Le nom** : « Simone » (Saint-Simon) + « Quesnay » (le physiocrate, l'ordre naturel administré) — à valider, remplacer ou affiner selon le pattern des noms du roman.
+2. **Le nom (résolu)** : « Simone » (Saint-Simon) + « de Parme » (Parménide) — validé par l'auteur, aligné sur le ch. 6.a ; le personnage porte le nom de sa matrice métaphysique.
 3. **Chronologie de son mandat** : présidentielle 2027 ou 2032 ? La guerre civile « durant son mandat » chevauche l'élection anti-tech de 2032 (trame) — à caler avec l'arbre chronologique.
 4. **Sa faille à elle** : quel aveu personnel ? (Talleyrand avait l'ordre de Malte ; Sénèque sa fortune — elle a quoi ?)
 5. Sait-elle pour l'accès illégal aux données gouvernementales (ch.4) dès la rencontre de Bruxelles ?
