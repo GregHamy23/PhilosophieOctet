@@ -1,4 +1,4 @@
-## Chapitre 6.a
+## Chapitre 6
 
 Je raffole de livres philosophiques ou sur le développement personnel. Néanmoins, je n’ai jamais entendu parler de l’ouvrage « Comment annoncer à son partenaire qu’on va lui mettre à l’envers ? ». Ce bouquin m’aurait beaucoup aidé à éviter mon enchevêtrement futur.
 Mais revenons au fil de l’histoire. 
